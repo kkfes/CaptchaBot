@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: annotations-13.0.jar httpclient-4.5.13.jar hk2-api-2.6.1.jar
+  aopalliance-repackaged-2.6.1.jar telegrambots-meta-6.1.0.jar hk2-locat
+ or-2.6.1.jar httpmime-4.5.13.jar commons-lang3-3.12.0.jar commons-io-2.
+ 11.0.jar jsr305-3.0.2.jar jersey-media-json-jackson-2.35.jar grizzly-ht
+ tp-server-2.4.4.jar kotlin-stdlib-1.2.71.jar jackson-module-jaxb-annota
+ tions-2.13.2.jar error_prone_annotations-2.11.0.jar jersey-server-2.35.
+ jar kotlin-stdlib-common-1.2.71.jar checker-qual-3.12.0.jar listenablef
+ uture-9999.0-empty-to-avoid-conflict-with-guava.jar grizzly-http-2.4.4.
+ jar guava-31.1-jre.jar lz4-1.3.0.jar j2objc-annotations-1.3.jar telegra
+ mbots-abilities-6.1.0.jar jakarta.annotation-api-1.3.5.jar jackson-jaxr
+ s-base-2.13.2.jar jackson-annotations-2.13.2.jar eclipse-collections-ap
+ i-11.1.0.jar jersey-container-grizzly2-http-2.35.jar eclipse-collection
+ s-11.1.0.jar jakarta.xml.bind-api-2.3.3.jar commons-logging-1.2.jar slf
+ 4j-api-1.7.36.jar jackson-jaxrs-json-provider-2.13.2.jar eclipse-collec
+ tions-forkjoin-11.1.0.jar jakarta.inject-2.6.1.jar elsa-3.0.0-M5.jar js
+ on-20220320.jar telegrambots-6.1.0.jar jersey-common-2.35.jar osgi-reso
+ urce-locator-1.0.3.jar javassist-3.25.0-GA.jar jersey-entity-filtering-
+ 2.35.jar failureaccess-1.0.1.jar httpcore-4.4.13.jar jackson-databind-2
+ .13.2.2.jar jakarta.ws.rs-api-2.1.6.jar slf4j-simple-1.7.36.jar jakarta
+ .validation-api-2.0.2.jar jackson-core-2.13.2.jar jersey-client-2.35.ja
+ r jersey-hk2-2.35.jar mapdb-3.0.8.jar grizzly-framework-2.4.4.jar hk2-u
+ tils-2.6.1.jar commons-codec-1.11.jar
+
